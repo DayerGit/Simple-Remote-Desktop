@@ -74,7 +74,7 @@
 ### Шаги сборки
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/simple-remote-desktop.git
+   git clone https://github.com/DayerGit/simple-remote-desktop.git
 
 2. Откройте файл решения Simple Remote Desktop.sln в Visual Studio.
 3. Соберите проект.
